@@ -18,7 +18,6 @@ public class MatrixAddition {
         Scanner sc = new Scanner(System.in);
 
 
-        // Read first matrix
         System.out.println("Enter elements of Matrix A (" + N + "x" + N + "):");
         for (int i = 0; i < N; i++) {
             for (int j = 0; j < N; j++) {
